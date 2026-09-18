@@ -102,12 +102,6 @@ The Covidence data extraction template was iteratively tailored and refined duri
 
 synchronize and extract short, cardiac- locked EEG segments for examination.
 
-### 3.2 | Participants
-
-Table 2 shows the participant information extracted from each study, with details of the data items extracted listed below.
-
-#### 3.2.1 | Audiology
-
 ## 3 | Results
 
 Data were extracted from 18 studies that met the eligibility criteria for this scoping review as documented in the Supporting Information (see Appendices S2 and S3). The narrative that follows presents a breakdown of that information.
@@ -115,8 +109,6 @@ Data were extracted from 18 studies that met the eligibility criteria for this s
 ### 3.1 | Publication Information
 
 Table 1 shows the publication information extracted for each study with details below.
-
-Pre- screening for hearing impairment, to ensure participants can perceive the stimulus, is essential but sometimes neglected. For most studies involving young typical participants, documenting self- reported normal hearing is usually sufficient. However, the accuracy of self- reports depends on the questions asked (Picton et al. 2000). Guidelines recommend that participants should be screened for normal hearing at 20 dB hearing level (dB HL) for the stimulus frequencies tested (Picton et al. 2000). Ten of the studies examined made no mention of hearing assessment. Of the eight that mentioned hearing assessment, four used an examination, two relied on participant self- report, and two simply stated that participants had no history of, or known, hearing impairment.
 
 #### 3.1.1 | Author
 
@@ -126,19 +118,27 @@ There were 13 individual first authors of the 18 studies. Five of the 18 studies
 
 The chronology of the studies shows that the majority (11) were published in the past 10 years, since 2015, with seven studies published prior to 2015. Of those seven, two were published more than 30 years ago, in 1992 and 1993.
 
-#### 3.2.2 | Musicianship
-
-This review excluded studies which specified musicians as participants. A consensus in the music psychology literature is that a musician has at least 6 years of musical expertise (Zhang et al. 2020). Of the 18 papers examined, 12 made no mention of musicianship. Of the six papers that did mention assessment of musicianship, one used an in- house questionnaire, one excluded those with a high level of proficiency, two mentioned participants having only a normal school education, one stated no history of music training, one stated that participants were not musicians and that only half had any formal music training. Notably, none of the studies employed standardized measures such as the Goldsmiths Musical Sophistication Index (GoldMSI) (Müllensiefen et al. 2014), which is widely used to assess individual differences in musical training and engagement.
-
 #### 3.1.3 | Region
-
-#### 3.2.3 | Handedness
 
 Six studies were from Western Europe (including countries like the UK, Germany, France), five from North America, four from East Asia (China, Japan, South Korea), two from Southeast Asia (Indonesia, Malaysia), and one from South Asia (India, Pakistan).
 
 #### 3.1.4 | Aims and Findings
 
-While all studies recorded and analyzed EEG and ECG, not all studies reported ECG, with three studies (Mollakazemi, Biswal, Evans, and Patwardhan 2018; Mollakazemi, Biswal, and Patwardhan 2018; Mollakazemi et al. 2021) using the ECG R- peak solely as an internal timing marker to
+While all studies recorded and analyzed EEG and ECG, not all studies reported ECG, with three studies (Mollakazemi, Biswal, Evans, and Patwardhan 2018; Mollakazemi, Biswal, and Patwardhan 2018; Mollakazemi et al. 2021) using the ECG R- peak solely as an internal timing marker to synchronize and extract short, cardiac- locked EEG segments for examination.
+
+### 3.2 | Participants
+
+Table 2 shows the participant information extracted from each study, with details of the data items extracted listed below.
+
+#### 3.2.1 | Audiology
+
+Pre- screening for hearing impairment, to ensure participants can perceive the stimulus, is essential but sometimes neglected. For most studies involving young typical participants, documenting self- reported normal hearing is usually sufficient. However, the accuracy of self- reports depends on the questions asked (Picton et al. 2000). Guidelines recommend that participants should be screened for normal hearing at 20 dB hearing level (dB HL) for the stimulus frequencies tested (Picton et al. 2000). Ten of the studies examined made no mention of hearing assessment. Of the eight that mentioned hearing assessment, four used an examination, two relied on participant self- report, and two simply stated that participants had no history of, or known, hearing impairment.
+
+#### 3.2.2 | Musicianship
+
+This review excluded studies which specified musicians as participants. A consensus in the music psychology literature is that a musician has at least 6 years of musical expertise (Zhang et al. 2020). Of the 18 papers examined, 12 made no mention of musicianship. Of the six papers that did mention assessment of musicianship, one used an in- house questionnaire, one excluded those with a high level of proficiency, two mentioned participants having only a normal school education, one stated no history of music training, one stated that participants were not musicians and that only half had any formal music training. Notably, none of the studies employed standardized measures such as the Goldsmiths Musical Sophistication Index (GoldMSI) (Müllensiefen et al. 2014), which is widely used to assess individual differences in musical training and engagement.
+
+#### 3.2.3 | Handedness
 
 Guidelines (Picton et al. 2000) suggest reporting of handedness for studies using motor responses, and handedness has been shown to be associated with auditory brain responses (Mohebbi et al. 2014), hemispheric asymmetries in the EEG spectrum (Ocklenburg et al. 2019), and cardiac measures (Yüksel et al. 2014). It would therefore seem pertinent to report handedness in studies examining EEG and ECG responses to music. Of the 18 studies examined, nine did not mention handedness. In five studies, handedness was claimed by the researchers without reference to assessment. Four studies assessed handedness, with three of those specifying the Edinburgh Handedness Inventory (Oldfield 1971), and one study (Baumgartner et al. 2006) simply stating it was tested “with standard handedness tests” (p. 35).
 
@@ -985,3 +985,4 @@ Additional supporting information can be found online in the Supporting Informat
 - Main document is the Wiley open-access PDF (CC BY 4.0) of doi:10.1111/psyp.70385, published 3 September 2026.
 - Appendices S1 to S3 were supplied by Wiley as .docx and converted to Markdown tables for this package; the .docx originals are kept in sources/.
 - The review generated no primary data or code (Data Availability Statement); protocol preregistered at osf.io/yx3rh.
+- **Correction, 18 September 2026:** the narrative in Section 3.1-3.2 (Publication Information and Participants) had been transcribed reading the PDF's two facing columns on page 6 out of order, interleaving 3.1's and 3.2's subsections and leaving 3.2.1 (Audiology) and 3.1.3 (Region) as empty headings with their real paragraphs misplaced under 3.1 and 3.2.3 (Handedness) respectively, and cutting 3.1.4 (Aims and Findings) off mid-sentence. Re-transcribed directly from page 6 of the source PDF (`sources/psyp70385-main.pdf`); no text was lost, only misordered. No other section of the document showed this pattern on inspection.
