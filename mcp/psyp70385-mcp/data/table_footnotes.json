@@ -1,0 +1,27 @@
+{
+  "1": {
+    "a": "Kumarasinghe et al. (2021) and Namazi et al. (2021) report the same dataset.",
+    "b": "Only non‐musicians in this study met the inclusion criteria for reporting here.",
+    "c": "Only healthy controls in the recorded music segment of this study met the inclusion criteria for reporting here."
+  },
+  "2": {
+    "a": "Non‐musicians only.",
+    "b": "Healthy controls only."
+  },
+  "4": {
+    "a": "Not a standard Lead II placement."
+  },
+  "5": {
+    "a": "Also see (Hunt et al. 2014) for additional details."
+  },
+  "6": {
+    "a": "Only hypotheses for non‐musicians reported here.",
+    "b": "For healthy controls only.",
+    "c": "Denotes an ERP preprocessing baseline (i.e., a pre‐stimulus epoch used for waveform correction), not a resting baseline condition."
+  },
+  "7": {
+    "a": "Non‐musicians only.",
+    "b": "Healthy controls only.",
+    "c": "ECG measures were not formally assessed; ECG R‐peaks were used solely as a timing marker for cardiac‐synchronized EEG analysis."
+  }
+}

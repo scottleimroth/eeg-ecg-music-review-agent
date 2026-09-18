@@ -1,0 +1,19 @@
+Author/Year,Variables,Electrode configuration,Recording equipment,Filtering,Sampling rate (Hz),BP/Resp
+Nanba et al. (1992),HR,Lead I,"Takeda medical, TM 4010",,,Both
+Nanba et al. (1993),HR,Lead I,"NEC‐San Ei, 7 T‐07A",,,Both
+Baumgartner et al. (2006),HR,,PAR‐PORT,,,
+Steinbeis et al. (2006),R‐R time series (IBI),Lead I,Two 32/MREFA amplifiers,"2–60 Hz band‐pass filter (801 points, FIR)",500,
+Koelsch et al. (2008),R‐R time series (IBI),Lead I,,,,
+O'Kelly et al. (2013),HR; HRV LF,2 chest electrodes,XLTEC 50 channel video EEG and neuro‐physiological acquisition system,,,Resp
+Kuribayashi et al. (2014),HR,Lead II,QuickAmp,,1000,
+Jäncke et al. (2015),HR,Lead I,Biopac MP100 amplifier,,200,
+"Mollakazemi, Biswal, Evans, and Patwardhan (2018)",Cardiac synchronized EEG,Lead II,Spacelabs,,1000,Both
+"Mollakazemi, Biswal, and Patwardhan (2018)",Cardiac synchronized EEG,Lead II,,,1000,
+Mollakazemi et al. (2019),HR; R‐R time series (IBI),Lead II,Spacelabs,Low‐pass filtered with a cutoff frequency of 5 Hz and sub‐sampled at a rate of 10 samples/s.,1000,Both
+Teixeira Borges et al. (2019),"HRV measures including time‐domain (AVNN, SDNN, RMSSD, pNN50), frequency‐domain (VLF, LF, HF, and LF/HF), and α₁ (heart)",,,"A low‐pass filter (cut‐off frequency: 100 Hz) and a notch filter (~50 Hz) were applied during recording. After acquisition, high‐pass and low‐pass two‐way constrained least squares FIR filters (cutoff 45 Hz, order = 500; cutoff 0.5 Hz, order = 1200, −70 dB stopband attenuation, passband ripple = 0.1%) were used to eliminate baseline drift of non‐cardiac origin and minimize other artifacts such as power line interference or electromyographic noise.",1000,
+Mollakazemi et al. (2020),R‐R time series (IBI),Lead II,Spacelabs,Low passed filtered by a cutoff frequency of 5 Hz and down‐sampled to rate of 10 samples/s.,1000,Both
+Kumarasinghe et al. (2021),R‐R time series (IBI),5‐Lead ECG,Shimmer ECG,,128,
+Mollakazemi et al. (2021),Cardiac synchronized EEG,Lead II,Spacelabs,,1000,
+Namazi et al. (2021),R‐R time series (IBI),5‐Lead ECG,Shimmer ECG,,128,
+Sharma et al. (2021),"HR, HRV LF/HF & rrHRV",Lead II on bilateral clavicles^a,,,,
+Kawashima et al. (2024),HRV LF & HF,Lead II,StarStim (Neuroelectrics),,500,

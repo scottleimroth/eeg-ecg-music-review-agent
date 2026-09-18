@@ -1,0 +1,65 @@
+{
+  "source": "Appendix S3 (Data Items) of Leimroth et al. 2026, doi:10.1111/psyp.70385",
+  "categories": {
+    "publication_information": [
+      "Author/Year",
+      "Region",
+      "Aim of Study",
+      "Findings"
+    ],
+    "participants": [
+      "Audiology",
+      "Musicianship",
+      "Handedness",
+      "Eligibility Criteria",
+      "Sample Size",
+      "Final Number Processed",
+      "Sex",
+      "Age"
+    ],
+    "measures": {
+      "eeg": [
+        "Variables",
+        "Electrode Configuration",
+        "Electrode Type",
+        "Impedance",
+        "Referencing",
+        "Filtering",
+        "Hardware",
+        "Sampling Frequency"
+      ],
+      "ecg": [
+        "Variables",
+        "Electrode Configuration",
+        "Recording Equipment",
+        "Filtering",
+        "Sampling Rate",
+        "Blood Pressure/Respiration"
+      ]
+    },
+    "experimental_conditions": {
+      "stimulus": [
+        "Duration",
+        "Musical Component Examined",
+        "Style",
+        "Source",
+        "Delivery Method",
+        "Intensity",
+        "Selection",
+        "Familiarity",
+        "Attention to Stimulus"
+      ],
+      "study_design": [
+        "Hypothesis",
+        "Room Details",
+        "Time of Day",
+        "Orientation",
+        "Visual State",
+        "Control/Baseline",
+        "Power Analysis",
+        "Ethics/Informed Consent"
+      ]
+    }
+  },
+  "template_markdown": "## Appendix S3: Data Items\n\nSource: psyp70385-sup-0003-AppendixS3.docx (Wiley Supporting Information for doi:10.1111/psyp.70385), converted to Markdown; table cells that held several lines are joined with '; '.\n\n| Publication information | Author/Year; Region (in which the study was conducted); North America; Western Europe (including countries like the UK, Germany, France); Eastern Europe (including Russia, Poland, etc.); East Asia (China, Japan, South Korea); South Asia (India, Pakistan); Southeast Asia (Indonesia, Malaysia); Latin America; Oceania; Africa; Aim of Study; Findings |\n|---|---|\n| Population |  |\n| Participants | Audiology; Musicianship; Handedness; Eligibility Criteria; Sample Size; Final Number Processed; Sex; Age |\n| Concept |  |\n| Measures | EEG Measures; Variables; Electrode Configuration; Electrode Type; Impedance; Referencing; Filtering; Hardware; Sampling Frequency; ECG Measures; Variables; Electrode Configuration; Recording Equipment; Filtering; Sampling Rate; Blood Pressure/Respiration |\n| Context |  |\n| Experimental conditions | Stimulus; Duration; Musical Component Examined; Style; Source; Delivery Method; Intensity; Selection; Familiarity; Attention to Stimulus |\n|  | Study design; Hypothesis; Room Details; Time of Day; Orientation; Visual State; Control/Baseline; Power Analysis; Ethics/Informed Consent |"
+}

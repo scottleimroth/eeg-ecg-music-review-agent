@@ -1,0 +1,36 @@
+{
+  "citation": "Leimroth, S. R., Barry, R. J., De Blasio, F. M., & Byron, T. P. (2026). Exploring EEG and ECG in music listening: A scoping review. Psychophysiology, 63(9), e70385.",
+  "doi": "10.1111/psyp.70385",
+  "pubmed_id": "42693627",
+  "pmc_id": "PMC13542476",
+  "published_online": "2026-09-03",
+  "received": "2026-05-18",
+  "revised": "2026-08-18",
+  "accepted": "2026-08-19",
+  "licence": "CC BY 4.0",
+  "open_access_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psyp.70385",
+  "preregistration": {
+    "protocol": "https://osf.io/yx3rh",
+    "project": "https://osf.io/xtznm"
+  },
+  "orcid": "0000-0003-3617-7994",
+  "affiliation": "Brain & Behaviour Research Institute and School of Psychology, University of Wollongong",
+  "methodology": [
+    "Joanna Briggs Institute scoping review methodology",
+    "PRISMA-ScR"
+  ],
+  "prisma_flow": {
+    "identified": 1214,
+    "duplicates_removed": 596,
+    "screened": 618,
+    "excluded_at_screening": 581,
+    "sought_for_retrieval": 37,
+    "not_retrieved": 0,
+    "assessed_for_eligibility": 37,
+    "excluded_at_eligibility": 19,
+    "included": 18
+  },
+  "included_studies": 18,
+  "first_authors": 13,
+  "data_availability": "This scoping review did not generate or analyze primary experimental data; no original data or analysis code is associated with the manuscript."
+}
