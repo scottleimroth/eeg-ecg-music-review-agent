@@ -20,6 +20,12 @@ the paper's content (`skill/`, and the data files under `mcp/psyp70385-mcp/data/
 is CC BY 4.0 with Wiley attribution. See [LICENSE](LICENSE) and
 [LICENCE.md](LICENCE.md) respectively.
 
+## Method
+
+Built with the Paper2Agent method of Miao, Davis, Zhang, Pritchard and Zou
+(2026), *Reimagining research papers as interactive and reliable AI
+agents*, *Nature*. https://doi.org/10.1038/s41586-026-11044-y
+
 ## What's here
 
 ```
