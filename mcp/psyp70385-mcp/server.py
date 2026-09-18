@@ -45,11 +45,15 @@ CATEGORIES = ("participants", "eeg", "ecg", "stimulus", "design", "findings")
 mcp = FastMCP(
     name="psyp70385-eeg-ecg-music-scoping-review",
     instructions=(
-        "Tools over the charted evidence of a published scoping review (18 studies that "
-        "recorded EEG and ECG concurrently during passive music listening in healthy adult "
-        "non-musicians). Every tool returns the review's own charted data verbatim; none of "
-        "them summarise or interpret findings. A study record's cell values may carry a "
-        "footnote marker like '^a' - call get_table_footnote to resolve what it means."
+        "Tools over the charted evidence of Leimroth et al. (2026), 'Exploring EEG and ECG "
+        "in Music Listening: A Scoping Review' (Psychophysiology 63(9) e70385, "
+        "doi:10.1111/psyp.70385) - 18 studies that recorded EEG and ECG concurrently during "
+        "passive music listening in healthy adult non-musicians. If the user is asking about "
+        "a different paper or a different scoping review, these tools do not apply to it - "
+        "say so rather than answering from this data. Every tool returns the review's own "
+        "charted data verbatim; none of them summarise or interpret findings. A study "
+        "record's cell values may carry a footnote marker like '^a' - call get_table_footnote "
+        "to resolve what it means."
     ),
 )
 
