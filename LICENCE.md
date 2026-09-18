@@ -24,9 +24,8 @@ The article's Supporting Information (Appendices S1-S3, cited in the
 reading package as `appendix-s1.md` / `appendix-s2.md` / `appendix-s3.md`)
 carries the same CC BY 4.0 licence from Wiley.
 
-## Code: [licence to be decided]
+## Code: MIT
 
 The tooling scripts, the MCP server's own code (`server.py`), and the test
-suite are original code written for this project. **No licence has been
-chosen for it yet.** Until one is added here, treat it as all-rights-reserved
-by default and ask before reusing it outside this repository.
+suite are original code written for this project, licensed under the MIT
+Licence - see [LICENSE](LICENSE) for the full text.

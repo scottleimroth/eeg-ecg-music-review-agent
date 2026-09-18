@@ -15,6 +15,11 @@ was built by Scott R. Leimroth alone; it is not a product of the paper's
 other authors and its design or any error in it should not be attributed
 to them.
 
+**Licensing at a glance:** the code (`mcp/`, `tooling/`) is MIT licensed;
+the paper's content (`skill/`, and the data files under `mcp/psyp70385-mcp/data/`)
+is CC BY 4.0 with Wiley attribution. See [LICENSE](LICENSE) and
+[LICENCE.md](LICENCE.md) respectively.
+
 ## What's here
 
 ```
@@ -58,8 +63,8 @@ claude mcp add psyp70385 -- uv run /absolute/path/to/mcp/psyp70385-mcp/server.py
 
 ## Licence
 
-See [LICENCE.md](LICENCE.md): the paper's content is CC BY 4.0 with Wiley
-attribution; this repository's original code has no licence chosen yet.
+See [LICENSE](LICENSE) (MIT, for the code) and [LICENCE.md](LICENCE.md)
+(CC BY 4.0 with Wiley attribution, for the paper's content).
 
 ## Provenance
 
